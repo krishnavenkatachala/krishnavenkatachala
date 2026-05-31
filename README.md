@@ -1,16 +1,105 @@
-## Hi there 👋
+# Krishna Venkatachala Portfolio Website
 
-<!--
-**krishnavenkatachala/krishnavenkatachala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A modern, responsive personal portfolio website showcasing the professional profile, technical expertise, leadership experience, and enterprise software engineering journey of Krishna Venkatachala.
 
-Here are some ideas to get you started:
+## Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This portfolio highlights:
+
+- 15+ years of software engineering experience
+- Enterprise Solution Architecture expertise
+- Microsoft .NET ecosystem specialization
+- Azure Cloud technologies
+- Full Stack Development capabilities
+- Technical Leadership and Team Mentoring
+- AI-assisted Software Development practices
+- Enterprise Application Modernization experience
+
+The website is designed using pure HTML and CSS with a modern dark theme, responsive layout, and mobile-first approach.
+
+---
+
+## Features
+
+### Professional Hero Section
+- Personal introduction
+- Professional profile picture
+- Technology stack overview
+- Contact information
+- Call-to-action navigation
+
+### About Section
+- Professional summary
+- Architectural and engineering philosophy
+- Enterprise software focus
+
+### Core Expertise
+- Backend Engineering
+- Frontend Development
+- Cloud & DevOps
+- Architecture & Leadership
+- AI-Assisted Engineering
+
+### Professional Journey
+- Career progression timeline
+- Leadership experience
+- Enterprise software development expertise
+- AI adoption and engineering productivity initiatives
+
+### Projects
+#### Independent Initiatives
+- Orionmetis
+- Cloud-native solutions
+- Modern web technologies
+
+#### Professional Projects
+- Enterprise Laboratory Management Platforms
+- Automotive Analytics Systems
+- Cloud Modernization Programs
+- Digital Transformation Initiatives
+
+### Highlights
+- Years of experience
+- Enterprise architecture focus
+- Cloud technology expertise
+- Leadership capabilities
+
+### Responsive Design
+Optimized for:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile Devices
+
+---
+
+## Technology Stack
+
+### Frontend
+
+- HTML5
+- CSS3
+- Responsive Design
+- Flexbox
+- CSS Grid
+- Modern UI Components
+
+### Professional Technologies Featured
+
+- C#
+- .NET Core
+- ASP.NET MVC
+- Web API
+- Angular
+- Blazor
+- Azure
+- Cosmos DB
+- SQL Server
+- Entity Framework
+- Git
+- Azure Blob Storage
+
+---
+
+## Project Structure
