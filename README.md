@@ -102,4 +102,18 @@ Optimized for:
 
 ---
 
-## Project Structure
+### Why Hire Me
+
+✔ 15+ Years of Enterprise Software Engineering Experience
+
+✔ End-to-End Solution Architecture Expertise
+
+✔ Proven Delivery Across Healthcare, Automotive, Analytics, and Enterprise Domains
+
+✔ Cloud-Native and Azure-Centric Architecture
+
+✔ AI-Assisted Engineering and Developer Productivity Leadership
+
+✔ Strong Stakeholder Communication and Team Leadership
+
+✔ Track Record of Modernizing Legacy Enterprise Platforms
